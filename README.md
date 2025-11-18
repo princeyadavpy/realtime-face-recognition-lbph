@@ -12,11 +12,10 @@ Supports capturing face samples, training, and verifying a person via webcam.
 
 ## Requirements
 pip install opencv-contrib-python numpy
-Usage
+
 Run the script:
 
-bash
-Copy code
+
 python face_recognition.py
 Controls:
 
